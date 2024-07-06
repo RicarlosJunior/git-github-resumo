@@ -22,5 +22,5 @@ Git é um sistema de controle de versão distribuído.
 ### O que é o GitHub ?
 GitHub é uma plataforma de hospedagem de código para versionamento com Git.
 
-### O que é uma Branch
+### O que é uma Branch ?
 De modo simplista é uma ramificação do seu projeto.
